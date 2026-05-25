@@ -72,7 +72,7 @@ git push -u origin main
 Other users can then install from your hosted marketplace:
 
 ```text
-/plugin marketplace add <your-github-marketplace-repository>
+/plugin marketplace add https://github.com/jason0404/Android-Review
 /plugin install android-review@jason-android-plugins
 ```
 
