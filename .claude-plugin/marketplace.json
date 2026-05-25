@@ -1,0 +1,14 @@
+{
+  "name": "jason-android-plugins",
+  "owner": {
+    "name": "Jason"
+  },
+  "description": "Claude Code plugins for Android code quality, crash analysis and release safety.",
+  "plugins": [
+    {
+      "name": "android-review",
+      "source": "./plugins/android-review",
+      "description": "Specialized Android review for Kotlin, lifecycle, Gradle, XML/Compose, SDK integrations, localization and multi-brand release safety."
+    }
+  ]
+}
